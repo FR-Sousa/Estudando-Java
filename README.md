@@ -1,2 +1,3 @@
 # Estudando-Java
- Este repositório é para meus estudos de aprendizado da linguagem Java, contendo alguns exercícios para fixação.
+Este repositório é dedicado aos meus estudos de Java, onde estou resolvendo os exercícios do professor Gustavo Guanabara
+para fixação dos conceitos da linguagem.
