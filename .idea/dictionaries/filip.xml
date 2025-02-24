@@ -4,7 +4,10 @@
       <w>algoritmo</w>
       <w>altura</w>
       <w>aluno</w>
+      <w>anos</w>
       <w>antecessor</w>
+      <w>aproveitamento</w>
+      <w>atual</w>
       <w>carteira</w>
       <w>comprar</w>
       <w>considere</w>
@@ -22,15 +25,22 @@
       <w>eexer</w>
       <w>eles</w>
       <w>equacao</w>
+      <w>esse</w>
+      <w>excesso</w>
       <w>exer</w>
+      <w>impar</w>
       <w>inteiro</w>
       <w>inteiros</w>
       <w>largura</w>
       <w>litros</w>
+      <w>maior</w>
       <w>matéria</w>
       <w>medidas</w>
+      <w>menor</w>
       <w>moeda</w>
       <w>multa</w>
+      <w>nacimento</w>
+      <w>nasceu</w>
       <w>notas</w>
       <w>numero</w>
       <w>número</w>
@@ -50,6 +60,10 @@
       <w>teclado</w>
       <w>terca</w>
       <w>terça</w>
+      <w>teve</w>
+      <w>velocidade</w>
+      <w>vota</w>
+      <w>votacao</w>
     </words>
   </dictionary>
 </component>
