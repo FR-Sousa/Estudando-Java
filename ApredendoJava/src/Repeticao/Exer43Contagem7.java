@@ -13,23 +13,28 @@ public class Exer43Contagem7 {
     static Scanner teclado = new Scanner(System.in);
 
     public static void main(String[] args) {
-        int valor1, valor2,icre;
+        int valor1, valor2, icre;
         System.out.print("Digite o primeiro valor: ");
         valor1 = teclado.nextInt();
         System.out.print("Digite o primeiro valor: ");
         valor2 = teclado.nextInt();
         System.out.print("Digite o incremento: ");
         icre = teclado.nextInt();
+//podemos trabalhar com a condições uma dentro da aoutra
+        if (valor1 < valor2) {
+            while (valor1 < valor2) {
+                System.out.print(valor1 + " ");
+                valor1 += icre;
+            }
+        } else if (valor1 > valor2) {
+            while (valor1 > valor2) {
+                System.out.print(valor1 + " ");
+                valor1 -= icre;
 
-        while ( valor1 < valor2 && valor1 > 1){
-            System.out.print(valor1 + " ");
-            valor1+= icre;
-            valor1 -=  icre;
-
+            }
 
 
         }
-
 
     }
 }

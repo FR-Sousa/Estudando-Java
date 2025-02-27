@@ -13,6 +13,7 @@
       <w>carteira</w>
       <w>comprar</w>
       <w>considere</w>
+      <w>contador</w>
       <w>contagem</w>
       <w>contagen</w>
       <w>convercao</w>
@@ -21,6 +22,7 @@
       <w>crie</w>
       <w>decrecente</w>
       <w>decresente</w>
+      <w>deles</w>
       <w>demao</w>
       <w>desenvolva</w>
       <w>dinheiro</w>
@@ -35,8 +37,11 @@
       <w>esse</w>
       <w>excesso</w>
       <w>exer</w>
+      <w>expressão</w>
       <w>icre</w>
+      <w>impa</w>
       <w>impar</w>
+      <w>impares</w>
       <w>incremento</w>
       <w>inteiro</w>
       <w>inteiros</w>
@@ -63,6 +68,7 @@
       <w>quanto</w>
       <w>quantos</w>
       <w>relativos</w>
+      <w>resultado</w>
       <w>salario</w>
       <w>seguinte</w>
       <w>somatorio</w>
@@ -75,6 +81,7 @@
       <w>velocidade</w>
       <w>vota</w>
       <w>votacao</w>
+      <w>ímpares</w>
     </words>
   </dictionary>
 </component>
